@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Hand Attacks",
+        "price": 3000,
+        "instructorName": "Grandmaster Man-hee Han",
+        "description": "The Hand Attacks is sometimes referred to as the “snap kick,” because of the tremendous speed exerted in this move. It is one of the first kicks taught in Taekwondo, but is often considered as one of the most powerful even at higher levels. It is performed by raising the knee of your kicking leg to the waist, then exerting force by exerting your foot forward, straight towards the target. This move is designed to push the target back, as well as injure them",
+        "img": "https://i.pinimg.com/originals/cb/46/84/cb46849308e8658e649f8d19037d8658.png"
+    },
+    {
+        "id": 2,
+        "name": "Kick (Chagi)",
+        "price": 3500,
+        "instructorName": "Hong Sung-chon",
+        "description": "Another move that is learned relatively early, the side kick is very powerful and has different implications depending on the Taekwondo standard being practiced. It is performed by raising the knee while also rotating your body by 90 degrees, then exerting force by extending your leg. By using the momentum of your waist and torso, you are able to connect harder with the target. Which part of the leg and foot connects with the target will vary between the different standards taught, but it will usually be with either the outside edge of your foot or with the heel of the foot.",
+        "img": "https://www.coaching-blackbelt.com/wp-content/uploads/2017/10/yopchagi-636x358.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Blocks",
+        "price": 3200,
+        "instructorName": "Choi, Joon",
+        "description": "Blocks. Taekwondo blocks known as Makgi are used to stop and deflect an incoming attack. They engage various parts of the arm with the hand and are held in different positions such as knife-hand, closed fist etc.",
+        "img": "https://blackbeltmag.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMzMwMzkyNi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTY4NDY3MDE2M30.EXl3zTRt_MEiSG8dddnCO-2qC62qxsgKyiCkZdlYjeU/image.jpg?width=1245&quality=85&coordinates=0%2C0%2C0%2C538&height=700"
+    },
+    {
+        "id": 4,
+        "name": "Patterns",
+        "price": 4000,
+        "instructorName": "Chung, Sun-yong",
+        "description": "Taekwondo patterns are also known as forms, teul, tul, poomse, poomsae, hyeong, hyung, etc. In Karate, this technique is known as kata. Taekwondo patterns are used to practice techniques (i.e. kicking combinations) as well as for improving strength & conditioning, balance, focus/concentration, etc.",
+        "img": "https://www.itftaekwondo.com/wp-content/uploads/2015/04/World-champs-seminar.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Patterns",
+        "price": 3800,
+        "instructorName": "Lee, Eun-woo",
+        "description": "The poomsae line symbolizes the Chinese letter for mountain. The movements should be powerful, well-balanced and dignified. TAEBAEK - Is the name of a mountain with the meaning \"bright mountain\" where Tangun, the founder of the nation of Korean people, ruled the country.",
+        "img": "https://i.ytimg.com/vi/HIstZXUBjBk/maxresdefault.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Hyeong",
+        "price": 5000,
+        "instructorName": "Ahn, Kyongwon",
+        "description": "A hyeong is a systematic, prearranged sequence of martial techniques that is performed either with or without the use of a weapon. In traditional dojangs (training halls), hyeong are used primarily as a form of interval training that is useful in developing mushin, proper kinetics and mental and physical fortitude. Hyeong may resemble combat, but are artistically non-combative and woven together so as to be an effective conditioning tool.",
+        "img": "https://bloximages.newyork1.vip.townnews.com/thenewsenterprise.com/content/tncms/assets/v3/editorial/e/51/e5194ec9-8008-562c-9cd5-c734ca097855/5b55797ccd3af.image.jpg?resize=1056%2C630"
+    },
+    {
+        "id": 7,
+        "name": "Tul",
+        "price": 5300,
+        "instructorName": "Goh, Chae-t",
+        "description": "Patterns, or tul (틀) in Korean, originally called hyeong (형), form an important aspect of training in Taekwon-Do. They are equivalent to the kata in karate. The majority of the patterns (except Yul-Gok, Ul-Ji and Tong-Il) start with a defensive move, which emphasizes Taekwon-Do defensive nature.",
+        "img": "https://old.itfeurope.org/graph/Pattern-Comp-North-Israel_3.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Basic HOOK KICK",
+        "price": 4500,
+        "instructorName": "Cha, Yong-kil",
+        "description": "A hook kick (also called a Hooking Kick, 후려차기 or huryeo chagi) is a kick that strikes the target with a hooking motion. The hook kick strikes with the heel of the foot (or with the flat of the foot in sparring), from the side of the target.",
+        "img": "https://images.squarespace-cdn.com/content/v1/5395e728e4b0be7c80fde5a6/1406136810865-WA7YMNX4JXZZ3I5RPSD7/image-asset.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "KNEE STRIKE",
+        "price": 3200,
+        "instructorName": "Chang, Seong-dong",
+        "description": "The Knee Strike is used, for example, in Taegeuk Chil Jang. Typically the arms are used to control the head or body of the opponent, bringing the head or body forward and downward while the knee is brought upward to strike. The ankle of the striking leg should be straight (so that the foot is pointed downward).",
+        "img": "https://www.ciskarate.com/wp-content/themes/arras-theme/library/timthumb.php?src=http://www.ciskarate.com/wp-content/uploads/2010/02/kneestrike.jpg&w=480&h=225&zc=1"
+    },
+    {
+        "id": 10,
+        "name": "SCISSOR KICK",
+        "price": 3600,
+        "instructorName": "Kil, Sang-sup",
+        "description": "A Scissors Kick is a Jumping Side Kick performed simultaneously with a Jumping Twist Kick, the idea being that you are kicking two opponents simultaneously.",
+        "img": "https://i.ytimg.com/vi/GADypluxeg8/maxresdefault.jpg"
+    },
+    {
+        "id": 11,
+        "name": "FLYING BACK KICK",
+        "price": 3800,
+        "instructorName": "Kim, Il-kwon",
+        "description": "A Flying Back Kick (also called a 360 Back Kick) is a variation of a Jump Back Kick. ... While in the air, you rotate 180 degrees so that your back is to the target, and then kick. As with all Back Kicks this is a linear kick, meaning the kicking leg does not arc its way to the target.",
+        "img": "https://i.pinimg.com/736x/f2/e6/36/f2e6366161d81e894ea2f815034c1d35.jpg"
+    }
+]

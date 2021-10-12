@@ -1,0 +1,16 @@
+nav{
+    background-color: #002e63;
+    color: white;
+    top:0;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+.join-btn:hover{
+color: white;
+background: none;
+transition: 0.5s;
+box-shadow: inset 0px 0px 0px 3px yellow;
+letter-spacing: 1px;
+}
