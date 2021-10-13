@@ -2,7 +2,7 @@ import React from 'react';
 
 const Course = (props) => {
     // console.log(props)
-    const { name, price, img, description } = props.course;
+    const { name, price, img } = props.course;
 
     return (
         <div className="max-h-52 rounded-xl text-center flex justify-center items-center relative shadow-lg">

@@ -8,8 +8,8 @@ import capusImage from '../../images/campus-image.jpg'
 import homeBg from '../../images/home-background.jpg'
 
 const Home = () => {
-    const [allCourses, setAllCourses] = useAllCourses()
     const [allInstructor, setAllInstructor] = useAllInstructor()
+    const [allCourses, setAllCourses] = useAllCourses()
 
     return (
         <div className="home">
@@ -65,7 +65,6 @@ const Home = () => {
                     <h1 className="text-white text-2xl xl:text-6xl text-center mx-auto w-10/12">Welcome to Our Campus</h1>
                     <p className="text-white xs:text-center xs:hidden lg:block mt-3 mx-auto w-6/12">Lorem ipsum dolor sit amet consectetur adipisicing elit.Sunt asperiores officia ad cupiditate nostrum cum  officia ad cupiditate nostrum cum aperiam culpa quis, vitae adipisci assumenda dicta reiciendis debitis non error tenetur animi itaque rerum?</p>
                 </div>
-
             </div>
         </div>
     );

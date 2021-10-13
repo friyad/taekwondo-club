@@ -1,7 +1,6 @@
-import React from 'react';
-import { useState } from 'react/cjs/react.development';
+import React, { useState } from 'react';
 
-const Course = (props) => {
+const AllCourse = (props) => {
     const [readMore, setReadMore] = useState(false)
     const { name, price, instructorName, img, description } = props.course;
 
@@ -22,4 +21,4 @@ const Course = (props) => {
     );
 };
 
-export default Course;
+export default AllCourse;
