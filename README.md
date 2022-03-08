@@ -4,4 +4,4 @@
 
 - This site make for a Taekwondo Club.
 - HTML5, CSS3 and React used to build this website.
-- If you found any mistake in this site please let me know your fedback at +880 1********54
+- If you found any isues in this site please let me know your fedback at +880 1********54
